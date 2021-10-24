@@ -43,6 +43,10 @@ The 9th to 11th kernels will define model and train model.<br>
 In this homework I use 4 models to get predict from testing data, so run the 1st kernels to 11th kernels 4 times.
 
 ### Evaluation
+I split 200 image from 3000 training data as validation data.<br>
+For each model, it will get accuracy around 66% to 70% on validation data.<br>
+With four models ensembled, it will get 66% accuracy on testing data.
 
- 
-### Results
+## Pre-trained model
+https://drive.google.com/drive/folders/1FBJSirBWKEJAb-yMBe5uVzmChkkfnLOR?usp=sharing
+
