@@ -17,7 +17,7 @@ for i = 1: length(digitStruct)
         y_center = y_center / total_height;
         height = digitStruct(i).bbox(j).height;
         height = height / total_height;
-        width=digitStruct(i).bbox(j).width;
+        width = digitStruct(i).bbox(j).width;
         width = width / total_width;
         label = digitStruct(i).bbox(j).label;
         if (label==10)
