@@ -43,14 +43,14 @@ Each line in txt file means
 
 
 ### Training
-Run 15th and 16th kernels to start your model training <br>
-In this homework I use 4 models to get predict from testing data, so run the 1st kernels to 11th kernels 4 times.
+Run 15th and 16th kernels to start your model training.<br>It will save backup every 100 iterations, so run 15th and 17th kernel to train model with previous result.<br>
 
 ### Evaluation
-I split 200 image from 3000 training data as validation data.<br>
-For each model, it will get accuracy around 66% to 70% on validation data.<br>
-With four models ensembled, it will get 66% accuracy on testing data.
+I split about 3000 image from about 30000 training data as validation data.<br>Get map of validation data by running 18th kernel.
+
+### Generate Result
+19th to 21st kernels will detect objects of testing data and  convert to json format.
 
 ## Pre-trained model
-https://drive.google.com/drive/folders/1FBJSirBWKEJAb-yMBe5uVzmChkkfnLOR?usp=sharing
+
 
