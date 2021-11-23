@@ -7,7 +7,6 @@ for i = 1: length(digitStruct)
     path = "./label/";
     txt_name = path + filename(1) + ".txt";
     fid = fopen(txt_name, 'w');
-    %fprintf(fid, txt_name);
 
     for j = 1:length(digitStruct(i).bbox)
         [total_height, total_width, channel] = size(im);
