@@ -46,7 +46,7 @@ Each line in txt file means
 In "inference.ipynb"<br>Run 15th and 16th kernels to start your model training.<br>It will save backup every 100 iterations, so run 15th and 17th kernel to train model with previous result.<br>
 
 ### Evaluation
-I split about 3000 image from about 30000 training data as validation data.<br>Get map of validation data by running 18th kernel.
+I split about 3000 image from about 30000 training data as validation data.<br>Get map of validation data by running 18th kernel.<br><br>Clone "[test.sh](https://github.com/axde954e6/NYCU_VRDL/blob/main/HW2/test.sh)" to ./darknet then run 22nd to 24th kernel can get speed of detection with previous 100 datas.
 
 ### Generate Result
 19th to 21st kernels will detect objects of testing data and  convert to json format.
@@ -54,3 +54,5 @@ I split about 3000 image from about 30000 training data as validation data.<br>G
 ## Pre-trained model
 
 
+## Reference
+reference: https://github.com/AlexeyAB/darknet
