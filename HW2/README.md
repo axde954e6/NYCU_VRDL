@@ -56,3 +56,5 @@ I split about 3000 image from about 30000 training data as validation data.<br>G
 
 ## Reference
 reference: https://github.com/AlexeyAB/darknet
+
+###### tags: `VRDL`
