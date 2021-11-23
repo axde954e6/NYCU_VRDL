@@ -51,8 +51,8 @@ I split about 3000 image from about 30000 training data as validation data.<br>G
 ### Generate Result
 19th to 21st kernels will detect objects of testing data and  convert to json format.
 
-## Pre-trained model
-
+## Pre-trained weight
+[HW2 model weight](https://drive.google.com/drive/folders/1IILl5pKeX46MdkrotQ7ISGtZWpdVPCyi?usp=sharing)
 
 ## Reference
 reference: https://github.com/AlexeyAB/darknet
