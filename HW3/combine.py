@@ -25,4 +25,3 @@ for i in range(6):
 with open("answer.json", 'w') as fd:
     json.dump(answer, fd)
 
-    
