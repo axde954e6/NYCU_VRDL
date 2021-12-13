@@ -51,7 +51,7 @@ python combine.py
 ```
 
 ## Pre-trained weight
-[HW3 model weight]()
+[HW3 model weight](https://drive.google.com/drive/folders/1IILl5pKeX46MdkrotQ7ISGtZWpdVPCyi?usp=sharing)
 
 ## Reference
 Mask_RCNN https://github.com/matterport/Mask_RCNN <br>
