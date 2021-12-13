@@ -51,11 +51,9 @@ python combine.py
 ```
 
 ## Pre-trained weight
-[HW3 model weight](https://drive.google.com/drive/folders/1IILl5pKeX46MdkrotQ7ISGtZWpdVPCyi?usp=sharing)
-
+[HW3 model weight](https://drive.google.com/drive/folders/1IILl5pKeX46MdkrotQ7ISGtZWpdVPCyi?usp=sharing)<br>model_id4.h5 is used to detect TCGA-AY-A8YK-01A-01-TS1.png<br>model.h5 is used to detect others testing image
 ## Reference
-Mask_RCNN https://github.com/matterport/Mask_RCNN <br>
-cocoapi https://github.com/cocodataset/cocoapi
+Mask_RCNN https://github.com/matterport/Mask_RCNN <br>cocoapi https://github.com/cocodataset/cocoapi
 
 
 ###### tags: `VRDL`
