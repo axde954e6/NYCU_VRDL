@@ -2,7 +2,7 @@
 https://www.kaggle.com/c/human-protein-atlas-image-classification/overview<br>
 ## Enviornment
 Kaggle<br>
-Y can directly run notebook in kaggle<br>
+You can directly run notebook in kaggle<br>
 ## private score: 0.48849<br>
 Use xception as image classification model and threshold finding<br>
 No external data. It's because my GPU memory is not enough to run it in my computer.
