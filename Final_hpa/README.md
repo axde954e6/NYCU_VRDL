@@ -1,5 +1,5 @@
 Kaggle competition<br>
-https://www.kaggle.com/c/human-protein-atlas-image-classification/overview
+https://www.kaggle.com/c/human-protein-atlas-image-classification/overview<br>
 private score: 0.48849<br>
 Use xception as image classification model and threshold finding<br>
 pretrain weight<br>
