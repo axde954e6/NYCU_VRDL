@@ -17,7 +17,7 @@ NVDIA GeForce RTX 3050 Laptop GPU
 ## Reproducing Submission 
 
 ### Dataset Download
-Codalab and download public data: <br>https://codalab.lisn.upsaclay.fr/competitions/622<br>
+Download public data on <br>
 
 Training image and mask in the directory "training_hr_images"
 ```
