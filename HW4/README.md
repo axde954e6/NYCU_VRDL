@@ -17,7 +17,7 @@ NVDIA GeForce RTX 3050 Laptop GPU
 ## Reproducing Submission 
 
 ### Dataset Download
-Download public data on <br>
+Download public data on newE3 <br>
 
 Training image and mask in the directory "training_hr_images"
 ```
