@@ -1,5 +1,6 @@
 # Kaggle competition<br>
 https://www.kaggle.com/c/human-protein-atlas-image-classification/overview<br>
+4 channel (R,G,B,Y)<br>
 ## Enviornment
 Kaggle<br>
 You can directly run notebook in kaggle<br>
